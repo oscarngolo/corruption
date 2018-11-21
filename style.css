@@ -1,0 +1,92 @@
+body{
+  background-image:url("https://thumbs.dreamstime.com/z/say-no-to-corruption-bribery-one-hand-holds-money-other-hand-shout-replies-money-does-not-take-bribes-74967198.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  position:static;
+  width: 100%;
+  height: 100%;
+  font-family:cursive;
+  margin:10px;
+  }
+#overlay{
+    overflow:auto;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:rgba(0,0,0,0.5);
+    z-index:2;
+    x:0;
+  }
+h1{
+  margin: 0;
+  text-align: left;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight:500;
+  color:yellow;
+  text-decoration: underline;
+  text-shadow: 1px 1px;
+  background-image: url("http://www.jkuatkarenlegal.co.ke/wpimages/wp8cf48539_05_06.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+nav ul{
+  margin:0;
+  float:right;
+}
+nav ul li{
+display:inline-block;
+color:white;
+text-align:right;
+background-color: #666;
+padding:2px;
+margin:2px;
+border-radius: 2px;
+text-shadow: 0.9px 0.5px;
+border: 1px solid white;
+
+}
+nav ul li a{
+  color:rgb(255,0,255);
+  text-decoration: none;
+}
+h2,h3{
+  font-size: 25px;
+  text-transform: capitalize;
+  color:rgb(165-42-42);
+  text-decoration: underline;
+  text-shadow:0.4px 0.5px;
+  margin-left:180px;
+}
+p{
+  margin-left: 10px;
+}
+iframe{
+  margin-left: 500px;
+}
+p,li{
+  font-size: 22px;
+  color:white;
+  font-weight: bold;
+}
+#conclusion{
+  text-align: center;
+  color:#000;
+}
+span{
+  color:#000;
+}
+strong{
+  color:red;
+}
+footer{
+font-weight: bold;
+text-align: center;
+}
+img{
+  text-align: center;
+}
